@@ -22,3 +22,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Exported Gerber files
+pcb/export/*
