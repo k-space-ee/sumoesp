@@ -1,5 +1,8 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
+# Mac OS
+.DS_Store
+
 # Temporary files
 *.000
 *.bak
